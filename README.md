@@ -1,8 +1,7 @@
 # 🚀 3x-ui Panel (Sanaei) on Railway
 
-<p align="center">
-  <a href="https://t.me/meov2ray">
-    <img src="https://img.shields.io/badge/Telegram-MEOV2RAY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+    <img
+src="https://img.shields.io/badge/Telegram-MEOV2RAY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
   &nbsp;
   <a href="https://youtube.com/@meov2ray">
