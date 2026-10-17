@@ -35,9 +35,6 @@ This repository allows you to deploy **any version of the 3x-ui Panel (Sanaei)**
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/deploy)
 
-### 📢 Official Channels
-* 📢 **Telegram Channel:** [@meov2ray](https://t.me/meov2ray)
-* 🎥 **YouTube Channel:** [@meov2ray](https://youtube.com/@meov2ray)
 
 ### 🚀 Quick Deployment
 1. **Fork** this repository.
