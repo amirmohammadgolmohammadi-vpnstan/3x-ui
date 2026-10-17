@@ -1,17 +1,4 @@
-# 🚀 3x-ui Panel (Sanaei) on Railway
-
-    <img
-src="https://img.shields.io/badge/Telegram-MEOV2RAY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@meov2ray">
-    <img src="https://img.shields.io/badge/YouTube-MEOV2RAY-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-  </a>
-</p>
-
----
-
-[فارسی](#-راهنمای-فارسی) | [English](#-english-guide)
+# 🚀 3x-ui Panel (Sanaei) on 
 
 ---
 
@@ -19,11 +6,7 @@ src="https://img.shields.io/badge/Telegram-MEOV2RAY-26A5E4?style=for-the-badge&l
 
 این پروژه امکان نصب و اجرای **تمامی نسخه‌های پنل 3x-ui (سنایی)** را روی سرویس ابری **Railway** فراهم می‌کند. با استفاده از این Dockerfile بهینه‌شده، پنل به‌صورت مستقیم از سورس گیت‌هاب دانلود و اجرا می‌شود.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/deploy)
-
-### 📢 کانال‌های ما
-* 📢 **کانال تلگرام:** [meov2ray@](https://t.me/meov2ray)
-* 🎥 **کانال یوتیوب:** [meov2ray@](https://youtube.com/@meov2ray)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/deploy)]
 
 ### 🚀 مراحل راه‌اندازی سریع
 1. این ریپازیتوری را **Fork** کنید.
